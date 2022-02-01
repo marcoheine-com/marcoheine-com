@@ -1,12 +1,12 @@
-### Hi there 👋 I'm Marco, a freelance web developer
+### Hi there 👋 I'm Marco, a Freelance Web Developer
 
 🛠 I love to help people get really good websites!
 
-🚀 I try to do my best, to make every web project I work on as accessible, fast and functional as possible 
+🚀 I do my best to make every web project I work on as accessible, fast and functional as possible 
 
-👨🏻‍🎓 I have a focus on frontend development but am also able to work on the backend and with sql and no-sql backends
+👨🏻‍🎓 I have a focus on Frontend Development, with a keen eye for UX, but am also able to work on the Backend and with sql and no-sql Databases
 
-👨🏻‍🔬 HTML/CSS, TypeScript, React, Go, PostgreSQL are the technologies I work with the most
+👨🏻‍🔬 HTML/CSS, TypeScript, React, Go, PostgreSQL are the technologies I love to work with the most
 
 📫 How to reach me: 
 - check out my website at [marcokuehbauch.com](marcokuehbauch.com) 
