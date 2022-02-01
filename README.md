@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Marco, a Freelance Web Developer
 
-🛠 I love to help people get really good websites!
+🛠 I love helping people to get great websites!
 
 🚀 I do my best to make every web project I work on as accessible, fast and functional as possible 
 
