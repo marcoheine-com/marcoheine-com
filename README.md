@@ -9,9 +9,9 @@
 👨🏻‍🔬 HTML/CSS, TypeScript, React, Go, PostgreSQL are the technologies I love to work with the most
 
 📫 How to reach me: 
-- check out my website at [marcokuehbauch.com](marcokuehbauch.com) 
+- check out my website at [marcoheine.com](marcoheine.com) 
 - you can find me on twitter at [@mkuehb](https://twitter.com/Mkuehb) 
-- or send me an email to [hello@marcokuehbauch.com](mailto:hello@marcokuehbauch.com)
+- or send me an email to [hello@marcoheine.com](mailto:hello@marcoheine.com)
 
 
 
