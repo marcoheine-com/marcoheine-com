@@ -10,7 +10,7 @@
 
 📫 How to reach me: 
 - check out my website at [marcoheine.com](marcoheine.com) 
-- you can find me on twitter at [@mkuehb](https://twitter.com/Mkuehb) 
+- you can find me on twitter at [@marcoheine_com](https://twitter.com/marcoheine_com) 
 - or send me an email to [hello@marcoheine.com](mailto:hello@marcoheine.com)
 
 
