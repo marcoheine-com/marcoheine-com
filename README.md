@@ -9,7 +9,7 @@
 👨🏻‍🔬 HTML/CSS, TypeScript, React, Go, PostgreSQL are the technologies I love to work with the most
 
 📫 How to reach me: 
-- check out my website at [marcoheine.com](marcoheine.com) 
+- check out my website at [marcoheine.com](https://marcoheine.com) 
 - you can find me on twitter at [@marcoheine_com](https://twitter.com/marcoheine_com) 
 - or send me an email to [hello@marcoheine.com](mailto:hello@marcoheine.com)
 
